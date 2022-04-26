@@ -1,0 +1,7 @@
+com\mycompany\javatetris\Shape.class
+com\mycompany\javatetris\Board.class
+com\mycompany\javatetris\GameOver.class
+com\mycompany\javatetris\Tetris.class
+com\mycompany\javatetris\Board$TAdapter.class
+com\mycompany\javatetris\Shape$Tetrominoes.class
+com\mycompany\javatetris\MainMenu.class
